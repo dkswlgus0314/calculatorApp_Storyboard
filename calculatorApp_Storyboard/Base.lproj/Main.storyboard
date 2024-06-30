@@ -423,22 +423,6 @@
                     </view>
                     <connections>
                         <outlet property="numLabel" destination="OZ0-M5-OoZ" id="4ZS-vI-TRc"/>
-                        <outletCollection property="buttonList" destination="c5T-JY-41U" collectionClass="NSMutableArray" id="WxJ-Ij-Cmq"/>
-                        <outletCollection property="buttonList" destination="h7R-8n-6kI" collectionClass="NSMutableArray" id="bJ9-Vv-Q2s"/>
-                        <outletCollection property="buttonList" destination="QRo-gd-Dqm" collectionClass="NSMutableArray" id="Zcb-nf-lPo"/>
-                        <outletCollection property="buttonList" destination="QWP-uz-iwp" collectionClass="NSMutableArray" id="Pyq-hm-nxz"/>
-                        <outletCollection property="buttonList" destination="2sJ-PO-H88" collectionClass="NSMutableArray" id="lyr-Mp-z2u"/>
-                        <outletCollection property="buttonList" destination="DRx-m0-ybG" collectionClass="NSMutableArray" id="2fX-D9-IBB"/>
-                        <outletCollection property="buttonList" destination="yy0-wa-GZx" collectionClass="NSMutableArray" id="EEt-nz-KIz"/>
-                        <outletCollection property="buttonList" destination="O3l-mi-nw5" collectionClass="NSMutableArray" id="Yvu-i0-7gh"/>
-                        <outletCollection property="buttonList" destination="YWz-o5-4ue" collectionClass="NSMutableArray" id="Oay-wf-rfT"/>
-                        <outletCollection property="buttonList" destination="bnI-qC-TrF" collectionClass="NSMutableArray" id="upI-cy-YW4"/>
-                        <outletCollection property="buttonList" destination="DfD-ey-8e6" collectionClass="NSMutableArray" id="p39-dJ-z8F"/>
-                        <outletCollection property="buttonList" destination="qWi-aJ-Chz" collectionClass="NSMutableArray" id="SCs-Yz-e1c"/>
-                        <outletCollection property="buttonList" destination="V48-62-Nbf" collectionClass="NSMutableArray" id="rAd-bl-bIz"/>
-                        <outletCollection property="buttonList" destination="gEr-eI-lr6" collectionClass="NSMutableArray" id="wMZ-e5-fJM"/>
-                        <outletCollection property="buttonList" destination="Ebi-0l-ewM" collectionClass="NSMutableArray" id="6vN-EI-IMq"/>
-                        <outletCollection property="buttonList" destination="I1Y-hF-xby" collectionClass="NSMutableArray" id="aYN-63-hrD"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     }
     
     @IBOutlet weak var numLabel: UILabel!
-    @IBOutlet var buttonList: [UIButton]!
     
     
     override func viewDidLoad() {
